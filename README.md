@@ -13,8 +13,10 @@ The classification is performed on this hoax valid news dataset, which contains 
 PREPROCESSING
 =================================================================================================================================
 Multiple preprocessing steps are performed for the dataset cleansing, which includes:
-
-=================================================================================================================================
+1) Tokenization
+2) Lowercasing
+3) Punctuation Removal
+4) Stopwords Removal (Stemming) by Sastrawi
 
 EXPLORATORY DATA ANALYSIS
 =================================================================================================================================
