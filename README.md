@@ -4,11 +4,12 @@ This project revolves around the classification of whether news is a hoax or val
 As an NLP project, this project was done using a deep learning model called Bi-LSTM.
 With this project, it was hoped that we could help people differentiate between hoaxes and valid news that is currently around.
 
+
 DATASETS
 =================================================================================================================================
 The dataset contains 600 train data points and 250 test data points.
 The classification is performed on this hoax valid news dataset, which contains two classes, valid (373), and hoax (229).
-=================================================================================================================================
+
 
 PREPROCESSING
 =================================================================================================================================
@@ -17,6 +18,7 @@ Multiple preprocessing steps are performed for the dataset cleansing, which incl
 2) Lowercasing
 3) Punctuation Removal
 4) Stopwords Removal (Stemming) by Sastrawi
+
 
 EXPLORATORY DATA ANALYSIS
 =================================================================================================================================
