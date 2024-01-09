@@ -4,6 +4,10 @@ This project revolves around the classification of whether news is a hoax or val
 <br>As an NLP project, this project was done using a deep learning model called Bi-LSTM.
 <br>With this project, it was hoped that we could help people differentiate between hoaxes and valid news that is currently around.
 
+The project itself contains multiple steps, ranging from EDA, data preprocessing, modeling, and the proposed method of conducting
+<br>perform the tuning process to increase the model's classification performance even further. In addition, I also tried to use TF-IDF as the
+<br>model's vectorizer. However, due to the amount of data sparsity caused by one-hot encoding, I perform PCA beforehand.
+
 
 DATASETS
 =================================================================================================================================
