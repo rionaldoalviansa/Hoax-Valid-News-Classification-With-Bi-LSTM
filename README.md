@@ -25,10 +25,11 @@ MODELLING EVALUATION
 Base Bi-LSTM Evaluation
 <br>Accuracy: 91%
 <br>f1-score: 91%
-<p float="left", display = "flex">
+<p float="left" display = "flex">
   <img src="https://github.com/rionaldoalviansa/Hoax-Valid-News-Classification-With-Bi-LSTM/assets/83877652/a2f74c5e-e89d-4501-a676-afbb43709894" width="300" />
   <img src="https://github.com/rionaldoalviansa/Hoax-Valid-News-Classification-With-Bi-LSTM/assets/83877652/0edb2aec-ae55-4a00-be96-ae82597fa4da" width="300" />
-  <img src="https://github.com/rionaldoalviansa/Hoax-Valid-News-Classification-With-Bi-LSTM/assets/83877652/6ef9acbe-556f-4286-b1af-18f07089f7c1" width="300" />
+  <img src="https://github.com/rionaldoalviansa/Hoax-Valid-News-Classification-With-Bi-LSTM/assets/83877652/6ef9acbe-556f-4286-b1af-18f07089f7c1" width="300" margin-top="50
+"/>
 </p>
 
 <br>Bi-LSTM with TF-IDF + PCA Evaluation
