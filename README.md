@@ -22,12 +22,16 @@ Multiple preprocessing steps are performed for the dataset cleansing, which incl
 
 MODELLING EVALUATION
 =================================================================================================================================
-Base Bi-LSTM
+Base Bi-LSTM Evaluation
 <br>Accuracy: 91%
 <br>f1-score: 91%
-<br>Bi-LSTM with TF-IDF + PCA
+![image](https://github.com/rionaldoalviansa/Hoax-Valid-News-Classification-With-Bi-LSTM/assets/83877652/a2f74c5e-e89d-4501-a676-afbb43709894)
+![image](https://github.com/rionaldoalviansa/Hoax-Valid-News-Classification-With-Bi-LSTM/assets/83877652/0edb2aec-ae55-4a00-be96-ae82597fa4da)
+
+<br>Bi-LSTM with TF-IDF + PCA Evaluation
 <br>Accuracy: 64%
 <br>f1-score: 49%
-<br>Keras Tuner's Randomzied Search-Tuned Bi-LSTM
+
+<br>Keras Tuner's Randomzied Search-Tuned Bi-LSTM Evaluation
 <br>Accuracy: 93%
 <br>f1-score: 93%
