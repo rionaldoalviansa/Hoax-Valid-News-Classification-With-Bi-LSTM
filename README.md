@@ -26,8 +26,8 @@ Base Bi-LSTM Evaluation
 <br>Accuracy: 91%
 <br>f1-score: 91%
 <p float="left">
-  <img src="[/img1.png](https://github.com/rionaldoalviansa/Hoax-Valid-News-Classification-With-Bi-LSTM/assets/83877652/a2f74c5e-e89d-4501-a676-afbb43709894)" width="100" />
-  <img src="[/img2.png](https://github.com/rionaldoalviansa/Hoax-Valid-News-Classification-With-Bi-LSTM/assets/83877652/0edb2aec-ae55-4a00-be96-ae82597fa4da)" width="100" /> 
+  <img src="https://github.com/rionaldoalviansa/Hoax-Valid-News-Classification-With-Bi-LSTM/assets/83877652/a2f74c5e-e89d-4501-a676-afbb43709894" width="100" />
+  <img src="https://github.com/rionaldoalviansa/Hoax-Valid-News-Classification-With-Bi-LSTM/assets/83877652/0edb2aec-ae55-4a00-be96-ae82597fa4da" width="100" /> 
 </p>
 <br>Bi-LSTM with TF-IDF + PCA Evaluation
 <br>Accuracy: 64%
