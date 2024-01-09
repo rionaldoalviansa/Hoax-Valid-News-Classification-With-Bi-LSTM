@@ -25,11 +25,9 @@ MODELLING EVALUATION
 Base Bi-LSTM
 <br>Accuracy: 91%
 <br>f1-score: 91%
-
 <br>Bi-LSTM with TF-IDF + PCA
 <br>Accuracy: 64%
 <br>f1-score: 49%
-
 <br>Keras Tuner's Randomzied Search-Tuned Bi-LSTM
 <br>Accuracy: 93%
 <br>f1-score: 93%
