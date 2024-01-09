@@ -20,19 +20,16 @@ Multiple preprocessing steps are performed for the dataset cleansing, which incl
 4) Stopwords Removal (Stemming) by Sastrawi
 
 
-EXPLORATORY DATA ANALYSIS
+MODELLING EVALUATION
 =================================================================================================================================
-Dataset Class Distribution
+Base Bi-LSTM
+Accuracy: 91%
+f1-score: 91%
 
-![image](https://github.com/rionaldoalviansa/Deep-Learning/assets/83877652/53c26739-d5ae-4494-821c-9cf9dab29bef)
+Bi-LSTM with TF-IDF + PCA
+Accuracy: 64%
+f1-score: 49%
 
-Dataset Length Density
-
-![image](https://github.com/rionaldoalviansa/Deep-Learning/assets/83877652/ab129555-e177-4fcf-853a-eb3643b8c6c0)
-
-Dataset Classes Wordclouds
-
-![image](https://github.com/rionaldoalviansa/Deep-Learning/assets/83877652/e53de7b2-d2f6-44b9-b3b0-9f09e6d7a9b1)
-
-![image](https://github.com/rionaldoalviansa/Deep-Learning/assets/83877652/997ab89e-03ce-4007-8d93-af29ad9150f7)
-
+Keras Tuner's Randomzied Search-Tuned Bi-LSTM
+Accuracy: 93%
+f1-score: 93%
