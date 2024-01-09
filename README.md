@@ -15,6 +15,14 @@ The dataset contains 600 train data points and 250 test data points.
 <br>The classification is performed on this hoax valid news dataset, which contains two classes, valid (373), and hoax (229).
 
 
+Exploratory Data Analysis Conclusion
+=================================================================================================================================
+After further EDA process, my analysis is concluded into several points, which are as follows:
+- There are class imbalances (373 valid data and 229 hoax data).
+- The length of data in this dataset mostly ranges from 1000 to 4000 letters.
+- Many frequently appearing words appear in both classes; thus, no clear word defines a certain class.
+
+
 PREPROCESSING
 =================================================================================================================================
 Multiple preprocessing steps are performed for the dataset cleansing, which includes:
