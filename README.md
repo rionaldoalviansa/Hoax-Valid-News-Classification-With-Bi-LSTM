@@ -1,8 +1,8 @@
 DESCRIPTION
 =================================================================================================================================
-This project revolves around the classification of whether news is a hoax or valid based on its content.
-As an NLP project, this project was done using a deep learning model called Bi-LSTM.
-With this project, it was hoped that we could help people differentiate between hoaxes and valid news that is currently around.
+This project revolves around the classification of whether news is a hoax or valid based on its content.\n
+As an NLP project, this project was done using a deep learning model called Bi-LSTM.\n
+With this project, it was hoped that we could help people differentiate between hoaxes and valid news that is currently around.\n
 
 
 DATASETS
